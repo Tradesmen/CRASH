@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/res/merged/release/xml/provider_paths.xml",
+        "source": "/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/exploded-aar/ReactWork/react-native-image-picker/unspecified/res/xml/provider_paths.xml"
+    }
+]

@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/globallogic/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_4b15612dc301d1c293d0100890540ffa6059997b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/exploded-aar/ReactWork/react-native-maps/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d95f5b1bce2b702f448e14a5683432f975dd13a8">
+        <dex dex="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/pre-dexed/debug/ReactWork-react-native-maps-unspecified_26d2a44d03cca07d5e9733a993bd113de66d7ca7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_15250e41f06af066af9daa52b07121b7f5dc0d29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_18a604bf3918cf0294772e4faf6ebc86e7c591a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/exploded-aar/ReactWork/react-native-extra-dimensions-android/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="31bd3974cc9f66a557546d610de7d23a69754c8e">
+        <dex dex="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/pre-dexed/debug/ReactWork-react-native-extra-dimensions-android-unspecified_aa72788b315bbe9153e6e6258016312bb04b723b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/exploded-aar/ReactWork/react-native-android-keyboard-adjust/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fa05a6ad2587dbe8de529e0b20bdd5683ec467a7">
+        <dex dex="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/pre-dexed/debug/ReactWork-react-native-android-keyboard-adjust-unspecified_e6d06932ac382836e4eb6287ec8c327ef80550a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_c0cc6be53557cf9cb7544650b6085e70cb6e8dc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_05a2b6ea1d57f4b94eb71e343999e19c48f4eb8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/globallogic/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_2d1c7fe016950ecdf32dffc0be833ce7fdfcb754.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_ac1756e1d824b659178b1c10d7b0b492ca13cd43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/globallogic/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_48bac33516dec9a166f71ab1407f2c5a65c5e7cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_dab7ed060c5f149730a16b48e8b1c292ce7f980c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.2.4_a989fff7080337d8e5a685c8580e7f6ead0ffa18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.2.4_948d088d40ec02671fcc2ca092e35fa57f9f39cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/globallogic/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_be236b1433a392952d212c5e26098fcabac04897.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/globallogic/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_e4f67876150ffbe494f795752af3718441e7555b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_9559c149aa27017cacea1197bbb0fc5a386e5a00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_dd4dc890911759cbdc19d7887b5a48314a22642b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="af61eb11ffb4296cab0c93218248a3dfcec0a84c">
+        <dex dex="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.52.0_01cc647cb21ad6d6c689a3b8d024690b28012e4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_0760fd2306c7851af029c3e18126944effbb06ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.2.4_a66df972c41af85444b560ccedcf44ce7df6a0dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/exploded-aar/ReactWork/react-native-image-picker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9f95540d3b14aed0250ba28dd07beece0df87598">
+        <dex dex="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/pre-dexed/debug/ReactWork-react-native-image-picker-unspecified_f9b1df180534ef5cb57bc9f57bffa0639669ca7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/globallogic/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_4182820102bccf231d189d6d470d17e591417231.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/globallogic/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_6ea750d659b3ae1026575dbde7bbd5d0d28a7ffb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6d0d5e86f5b7203834df01ed78ebfdd5cbf74d48">
+        <dex dex="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-10.2.4_305f7e789d6bba067d1f5424cedd727a8b9f7e54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_dda1059f17eafdba490c7586f6e0414f85145cdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_d404f39d7005ef5f6a0453bcefbdd4bbcd4eb69c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/globallogic/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_01bbd63ad04eedc61cbbbddcd3b8d72864600a5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/globallogic/Documents/COMPONENTS/ReactWorkk/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_95f86789411cd93bb4c05f27830798e06becea13.jar" />
+    </item>
+
+</items>
